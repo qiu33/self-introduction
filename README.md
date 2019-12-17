@@ -5,7 +5,7 @@
 
 
 ## 掌握的能力
-* 对于本学期的python知识还没有完全掌握，目前会建立mysql数据库，能将项目部署到pythonanywhere，略懂flask，会简单的web应用，还有一些基本的python语法，不懂的会自行百度，尽量解决
+* 对于本学期的python知识还没有完全掌握，但至少会一些基本的python语法，略懂flask，运用已经学到的python知识做过购物车项目、网页字母选择（包含记录）、网上颜色选择，并且将颜色选择部署到pythonanywhere，会mysql数据库连接，不懂的都会自行百度，尽量解决
 
 * 会撰写html文档和css样式，能够编写出简单的页面或者将页面进一步美化，注重每一个细节，给出令人满意的效果
 
@@ -17,6 +17,7 @@
 
 * [个人简历](https://qiu33.gitee.io/resume)
 
+* [参与过的大数据期末项目](https://qiu33.gitee.io/bigdataqimoxiangmu/bigdata)
 
 
 ## 合作要求
